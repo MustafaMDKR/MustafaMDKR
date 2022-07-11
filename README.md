@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MustafaMDKR
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Google Data Analytics Professional Certificate
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Python Web Development with Django
+- 💞️ I’m looking to collaborate on web development Projects
 - 📫 How to reach me mustafamdkr@gmail.com
 
 <!---
