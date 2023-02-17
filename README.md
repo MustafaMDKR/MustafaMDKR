@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MustafaMDKR
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Nodejs Web Development with MERN stack
-- 🌱 I’m currently learning php Web Development ~ Learning
+- 🌱 Nodejs Web Development with MERN stack
+- 🌱 php Web Development ~ Learning
 - 💞️ I’m looking to collaborate on web development Projects
 - 📫 How to reach me: mustafamdkr@gmail.com
 
