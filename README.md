@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MustafaMDKR
-- 👀 I’m interested in Web Development
+- 👀 Check my other github account @ https://github.com/MustafaMadkour
 - 🌱 Nodejs Web Development with MERN stack
 - 🌱 php Web Development ~ Learning
 - 💞️ I’m looking to collaborate on web development Projects
